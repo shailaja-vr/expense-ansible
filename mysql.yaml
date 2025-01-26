@@ -14,4 +14,3 @@
       enabled: yes
 
   - name: connect to mysql server
-  
