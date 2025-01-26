@@ -1,4 +1,4 @@
--name: configure backend server
+- name: configure backend server
   hosts: backend
   become: yes
   tasks:
